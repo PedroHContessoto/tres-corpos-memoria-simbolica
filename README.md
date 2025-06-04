@@ -24,9 +24,9 @@ O artigo completo está disponível em formato LaTeX no diretório principal. El
 ```plaintext
 📦 tres-corpos-memoria
 ├── article/
-│   ├── tres-corpos.tex       # Arquivo principal do artigo (LaTeX)
+│   ├── modelo-psi-infty-tres-corpos.tex       # Arquivo principal do artigo (LaTeX)
 │   ├── imagens/              # (Opcional) Diagramas, ilustrações, gráficos
-│   └── tres-corpos.pdf       # PDF gerado
+│   └── modelo-psi-infty-tres-corpos.pdf       # PDF gerado
 ├── src/
 │   ├── psi_infty_simulator.py   # Código experimental de simulação
 │   ├── memory_kernel.py         # Implementação da série funcional com truncamento
